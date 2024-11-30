@@ -1,0 +1,13 @@
+,cor,pvalue
+kaufman 18-gene t cell inflammed signature,0.648260818820044,6.87993813864611e-45
+cytolytic activity signature,0.645143665084892,2.4317174347839e-44
+nanostring interferon gamma signature,0.642481399141512,7.06622601743481e-44
+nanostring apc signature,0.620410901454491,3.30776917159188e-40
+antigene-presenting cell signature,0.606974190502072,4.11662145681436e-38
+ribas 10-gene interferon gamma signature,0.587213757973915,3.31218129915003e-35
+gajewski 13-gene inflammatory signature,0.566339413936503,2.40231106984874e-32
+9-gene exhausted cd8 signature,0.545846515818254,9.95026255305029e-30
+nanostring t-cell exhausted signature,0.537581920417393,1.00768598653197e-28
+3-gene exhausted cd8 signature,0.491829713206146,1.25010586369535e-23
+merk 6-gene interferon gamma signature,0.475167667266158,5.87893860187155e-22
+cabrita tls signature,0.346981998283682,9.14457255366508e-12

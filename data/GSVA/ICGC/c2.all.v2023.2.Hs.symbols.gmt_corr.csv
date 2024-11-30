@@ -1,0 +1,4 @@
+,cor,pvalue
+kegg_primary_immunodeficiency,0.676748440550693,3.6883813976911e-32
+kegg_cytokine_cytokine_receptor_interaction,0.656592582830373,9.45446510536703e-30
+kegg_chemokine_signaling_pathway,0.64356599837723,2.73292269243398e-28

@@ -1,0 +1,12 @@
+3-gene exhausted CD8 signature	http://www.gsea-msigdb.org	LAG3	CD244	EOMES													
+9-gene exhausted CD8 signature	http://www.gsea-msigdb.org	CXCL9	LAG3	CCL5	CD244	CSF3R	CXCL13	CYBB	KLRK1	MSR1							
+Cabrita TLS signature	http://www.gsea-msigdb.org	CCR6	CD1D	CD79B													
+Cytolytic activity signature	http://www.gsea-msigdb.org	GZMA	PRF1														
+Gajewski 13-gene inflammatory signature	http://www.gsea-msigdb.org	CXCL9	CD8A	CXCL10	CCL2	CCL3	CCL4	GZMK	HLA-DMA	HLA-DMB	HLA-DOB	ICOS	IRF1				
+Kaufman 18-gene T cell inflammed signature	http://www.gsea-msigdb.org	CXCL9	LAG3	STAT1	CD8A	IDOI	CCL5	CD274	CD27	CD276	CMKLR1	CXCR6	HLA-DQA1	HLA-E	PDCD1LG2	PSMB10	TIGIT
+Merk 6-gene interferon gamma signature	http://www.gsea-msigdb.org	CXCL9	STAT1	IDOI	CXCL10	HLA-DRA	IFNG										
+Nanostring APC signature	http://www.gsea-msigdb.org	CMKLR1	HLA-DQA1	PSMB10													
+Nanostring interferon gamma signature	http://www.gsea-msigdb.org	CXCL9	STAT1	IDOI	CCL5	CD27	CXCR6										
+Nanostring T-cell exhausted signature	http://www.gsea-msigdb.org	LAG3	CD8A	CD274	CD276	PDCD1LG2	TIGIT										
+Ribas 10-gene interferon gamma signature	http://www.gsea-msigdb.org	CXCL9	STAT1	IDOI	CXCL10	GZMA	HLA-DRA	IFNG	PRF1	CCR5	CXCL11						
+Antigene-presenting cell signature	http://www.gsea-msigdb.org	CMKLR1	HLA-DQA1	HLA-DRB1	PSMB10												
